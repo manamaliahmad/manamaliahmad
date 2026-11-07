@@ -1,14 +1,47 @@
 <!-- ============================================================ -->
 <!-- QUICK CUSTOMIZATION GUIDE (edit your data here):          -->
 <!-- 1. Images live in your profile repo's "assets/" folder:    -->
-<!--    - Hero (top, hologram)           -> ./assets/holo-face.svg (+ label-agent, btn-download, os-*.svg) -->
+<!--    - Lain (top, animated neofetch) -> ./assets/lain-neofetch.svg -->
 <!--    - Social buttons (brand colors) -> ./assets/btn-{profile-views,followers,discord,instagram,website,email}.svg -->
-<!--    - Lain (animated neofetch)      -> ./assets/lain-neofetch.svg -->
+<!--    - Hero (RedCat hologram)         -> ./assets/holo-face.svg (+ label-agent, btn-download, os-*.svg) -->
 <!--    (divider-horizon.jpg, footer-crown.jpg, liquid-glass.svg, grains.svg, btn-arch.svg, btn-status.svg, banner-arch.jpg, hero-crown.gif are no longer used.)   -->
 <!-- 2. Everything below is already filled with your real data -->
 <!--    (username: manamaliahmad). Just push this file as       -->
 <!--    README.md in the repo named "manamaliahmad".            -->
 <!-- ============================================================ -->
+
+<div align="center">
+
+<!-- LAIN — ANIMATED NEOFETCH (code-built: bg-removed cutout over scrolling code rain, blinking eyes) -->
+<img src="./assets/lain-neofetch.svg" alt="Lain — Ali Ahmad, AI Agent Builder" width="736" />
+
+</div>
+
+<br />
+
+<!-- SOCIAL & PROFILE BUTTONS — official brand colors (rounded pill) -->
+<p align="center">
+<a href="https://github.com/manamaliahmad">
+<img src="./assets/btn-profile-views.svg" alt="Profile Views" />
+</a>
+<a href="https://github.com/manamaliahmad?tab=followers">
+<img src="./assets/btn-followers.svg" alt="GitHub Followers" />
+</a>
+<a href="https://discord.gg/4r8NwtnFB">
+<img src="./assets/btn-discord.svg" alt="Discord" />
+</a>
+<a href="https://instagram.com/manamaliahmad">
+<img src="./assets/btn-instagram.svg" alt="Instagram" />
+</a>
+<a href="https://redcat.arexora.com">
+<img src="./assets/btn-website.svg" alt="Website" />
+</a>
+<a href="mailto:arexorathefutureofai@gmail.com">
+<img src="./assets/btn-email.svg" alt="Email" />
+</a>
+</p>
+
+<br />
 
 <div align="center">
 
@@ -43,35 +76,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=1793D1&center=true&vCenter=true&repeat=true&width=750&height=55&lines=root%40archlinux%3A~+%23+whoami+%E2%86%92+Ali+Ahmad;AI+Agent+Builder+%7C+RedCat+Founder+%7C+trying+to+build+cool+stuff;def+crown_of_thorns()%3A+return+power(100)" alt="Typing SVG" />
 </a>
 
-<!-- SOCIAL & PROFILE BUTTONS — official brand colors (rounded pill) -->
-<p align="center">
-<a href="https://github.com/manamaliahmad">
-<img src="./assets/btn-profile-views.svg" alt="Profile Views" />
-</a>
-<a href="https://github.com/manamaliahmad?tab=followers">
-<img src="./assets/btn-followers.svg" alt="GitHub Followers" />
-</a>
-<a href="https://discord.gg/4r8NwtnFB">
-<img src="./assets/btn-discord.svg" alt="Discord" />
-</a>
-<a href="https://instagram.com/manamaliahmad">
-<img src="./assets/btn-instagram.svg" alt="Instagram" />
-</a>
-<a href="https://redcat.arexora.com">
-<img src="./assets/btn-website.svg" alt="Website" />
-</a>
-<a href="mailto:arexorathefutureofai@gmail.com">
-<img src="./assets/btn-email.svg" alt="Email" />
-</a>
-</p>
-
-</div>
-
-<br />
-
-<!-- LAIN — ANIMATED NEOFETCH (code-built: bg-removed cutout over scrolling code rain, blinking eyes) -->
-<div align="center">
-<img src="./assets/lain-neofetch.svg" alt="Lain — Ali Ahmad, AI Agent Builder" width="736" />
 </div>
 
 <br />
