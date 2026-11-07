@@ -84,7 +84,6 @@
 | Project | Description | Core Stack | Links |
 |---|---|---|---|
 | **RedCat** | Free, open-source AI agent for everyone. Your keys, your data, your rules. One prompt → world-class website. | Electron, Node.js, JavaScript | [Repo](https://github.com/manamaliahmad/redcat) · [Live](https://redcat.arexora.com) |
-| **Tux** | Pocket robot pet. Crochet body, 1.69" screen, 1,800 animations. A hardware flagship with a content moat. | ESP32-C3, C/C++, Hardware | [Website](https://redcat.arexora.com) |
 | **RedCat Community** | Public Discord server — the home of RedCat builders, with onboarding and open-source collaboration. | Discord | [Join](https://discord.gg/4r8NwtnFB) |
 
 <br />
