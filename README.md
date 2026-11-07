@@ -13,7 +13,7 @@
 <div align="center">
 
 <!-- SECTION 1: HERO BANNER (Image 1 - Arch Linux / Terminal Anime Theme) -->
-<img src="./assets/banner-arch.jpg" alt="Arch Linux Terminal Header" width="100%" style="border-radius: 12px;" />
+<img src="./assets/banner-arch.jpg" alt="Arch Linux Terminal Header" width="100%" style="border-radius: 16px;" />
 
 <br />
 
@@ -22,25 +22,25 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=1793D1&center=true&vCenter=true&repeat=true&width=750&height=55&lines=root%40archlinux%3A~+%23+whoami+%E2%86%92+Ali+Ahmad;AI+Agent+Builder+%7C+RedCat+Founder+%7C+World-Class+Websites;def+crown_of_thorns()%3A+return+power(100)" alt="Typing SVG" />
 </a>
 
-<!-- SOCIAL & PROFILE BADGES -->
+<!-- SOCIAL & PROFILE BADGES — pill-shaped, one palette (Arch blue + Crown gold + dark) -->
 <p align="center">
 <a href="https://github.com/manamaliahmad">
-<img src="https://komarev.com/ghpvc/?username=manamaliahmad&label=PROFILE+VIEWS&color=1793d1&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=manamaliahmad&label=PROFILE+VIEWS&color=1793d1&style=for-the-badge" alt="Profile Views" style="border-radius: 999px;" />
 </a>
 <a href="https://github.com/manamaliahmad?tab=followers">
-<img src="https://img.shields.io/github/followers/manamaliahmad?label=FOLLOWERS&style=for-the-badge&color=1793d1&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub Followers" />
+<img src="https://img.shields.io/github/followers/manamaliahmad?label=FOLLOWERS&style=for-the-badge&color=1793d1&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub Followers" style="border-radius: 999px;" />
 </a>
 <a href="https://discord.gg/4r8NwtnFB">
-<img src="https://img.shields.io/badge/DISCORD-JOIN_SERVER-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117" alt="Discord" />
+<img src="https://img.shields.io/badge/DISCORD-JOIN_SERVER-1793D1?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117" alt="Discord" style="border-radius: 999px;" />
 </a>
 <a href="https://instagram.com/manamaliahmad">
-<img src="https://img.shields.io/badge/INSTAGRAM-@manamaliahmad-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" alt="Instagram" />
+<img src="https://img.shields.io/badge/INSTAGRAM-@manamaliahmad-1793D1?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" alt="Instagram" style="border-radius: 999px;" />
 </a>
 <a href="https://redcat.arexora.com">
-<img src="https://img.shields.io/badge/WEBSITE-redcat.arexora.com-1793D1?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117" alt="Website" />
+<img src="https://img.shields.io/badge/WEBSITE-redcat.arexora.com-1793D1?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117" alt="Website" style="border-radius: 999px;" />
 </a>
 <a href="mailto:arexorathefutureofai@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT_ME-F59E0B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
+<img src="https://img.shields.io/badge/EMAIL-CONTACT_ME-F59E0B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" style="border-radius: 999px;" />
 </a>
 </p>
 
@@ -68,9 +68,9 @@
 
 <!-- SECTION 2: THE HORIZON DIVIDER (Image 2 - Blue Horizon / Radar) -->
 <div align="center">
-<img src="./assets/divider-horizon.jpg" alt="Event Horizon Visual Tracking Banner" width="100%" style="border-radius: 12px;" />
+<img src="./assets/divider-horizon.jpg" alt="Event Horizon Visual Tracking Banner" width="100%" style="border-radius: 16px;" />
 <br /><br />
-<h3><code>[ SYSTEM ARCHITECTURE & TECH ARSENAL ]</code></h3>
+<h3><code><span style="color:#1793D1">[ SYSTEM ARCHITECTURE &amp; TECH ARSENAL ]</span></code></h3>
 </div>
 
 | Category | Technologies & Tools |
@@ -85,7 +85,7 @@
 
 <!-- FEATURED PROJECTS -->
 <div align="center">
-<h3><code>[ DEPLOYED OPERATIONS & FEATURED REPOS ]</code></h3>
+<h3><code><span style="color:#1793D1">[ DEPLOYED OPERATIONS &amp; FEATURED REPOS ]</span></code></h3>
 </div>
 
 | Project | Description | Core Stack | Links |
@@ -98,7 +98,7 @@
 
 <!-- TELEMETRY, STATS & STREAK (Arch Cyan #1793D1 & Crown Gold #F59E0B Theme) -->
 <div align="center">
-<h3><code>[ SYSTEM TELEMETRY & GITHUB METRICS ]</code></h3>
+<h3><code><span style="color:#F59E0B">[ SYSTEM TELEMETRY &amp; GITHUB METRICS ]</span></code></h3>
 
 <img height="175em" src="https://github-readme-stats.vercel.app/api?username=manamaliahmad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1793D1&icon_color=F59E0B&text_color=C9D1D9" alt="GitHub Stats" />
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manamaliahmad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1793D1&text_color=C9D1D9" alt="Top Languages" />
@@ -116,7 +116,7 @@
 
 <!-- SECTION 3: CROWN OF THORNS FINALE (Image 3 - Python Algorithm & Gold Aura) -->
 <div align="center">
-<img src="./assets/footer-crown.jpg" alt="Crown of Thorns Code Finale" width="100%" style="border-radius: 12px;" />
+<img src="./assets/footer-crown.jpg" alt="Crown of Thorns Code Finale" width="100%" style="border-radius: 16px;" />
 </div>
 
 <br />
@@ -142,8 +142,8 @@ def crown_of_thorns(strength: int = 100) -> str:
 
 <div align="center">
 <br />
-<img src="https://img.shields.io/badge/ARCH_LINUX-BTW-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white&labelColor=0d1117" alt="Arch Linux BTW" />
-<img src="https://img.shields.io/badge/STATUS-BUILDING_THE_FUTURE-F59E0B?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Status" />
+<img src="https://img.shields.io/badge/ARCH_LINUX-BTW-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white&labelColor=0d1117" alt="Arch Linux BTW" style="border-radius: 999px;" />
+<img src="https://img.shields.io/badge/STATUS-BUILDING_THE_FUTURE-F59E0B?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Status" style="border-radius: 999px;" />
 <br /><br />
 <sub>Crafted with precision — Your AI agent, on YOUR PC. Your keys, your data, your rules.</sub>
 </div>
