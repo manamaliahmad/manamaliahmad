@@ -4,6 +4,7 @@
 <!--    - Hero (top, hologram)           -> ./assets/holo-face.svg (+ label-agent, btn-download, os-*.svg) -->
 <!--    - Image 2 (Blue Horizon divider) -> ./assets/divider-horizon.jpg -->
 <!--    - Image 3 (Crown of Thorns)     -> ./assets/footer-crown.jpg -->
+<!--    - Lain (animated neofetch)      -> ./assets/lain-neofetch.svg -->
 <!--    (banner-arch.jpg + hero-crown.gif are no longer used.)   -->
 <!-- 2. Everything below is already filled with your real data -->
 <!--    (username: manamaliahmad). Just push this file as       -->
@@ -72,21 +73,10 @@
 
 <br />
 
-<!-- TERMINAL NEOFETCH BIO (Arch Linux aesthetic, your real info) -->
-
-```
-                   -`                    ali@archlinux
-                  .o+`                   ─────────────────────────────
-                 `ooo/                   OS: Arch Linux x86_64 (BTW)
-                `+oooo:                  Role: AI Agent Builder & Founder
-               `+oooooo:                 Focus: AI Agents, trying to build cool stuff
-               -+oooooo+:                Current Quest: Building RedCat
-             `/:-:++oooo+:               Philosophy: World-class or nothing
-            `/++++/+++++++:              Uptime: 24/7 Shipping
-           `/++++++++++++++:
-          `/+++ooooooooooooo/`
-         ./ooosssso-````/ossssss+`
-```
+<!-- LAIN — ANIMATED NEOFETCH (code-built: bg-removed cutout over scrolling code rain, blinking eyes) -->
+<div align="center">
+<img src="./assets/lain-neofetch.svg" alt="Lain — Ali Ahmad, AI Agent Builder" width="736" />
+</div>
 
 <br />
 
