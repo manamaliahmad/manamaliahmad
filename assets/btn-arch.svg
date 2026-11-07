@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="202" height="38" viewBox="0 0 202 38">
+  <defs>
+    <linearGradient id="bf" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d1117" stop-opacity="0.78"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="0.62"/>
+    </linearGradient>
+    <linearGradient id="bt" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1793D1" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="#1793D1" stop-opacity="0.08"/>
+    </linearGradient>
+    <filter id="bb" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="7"/>
+    </filter>
+    <clipPath id="bp">
+      <rect x="0.5" y="0.5" width="201" height="37" rx="18.5"/>
+    </clipPath>
+  </defs>
+  <rect x="0.5" y="0.5" width="201" height="37" rx="18.5" fill="url(#bf)" stroke="#ffffff" stroke-opacity="0.5" stroke-width="1"/>
+  <rect x="0.5" y="0.5" width="201" height="37" rx="18.5" fill="url(#bt)"/>
+  <g clip-path="url(#bp)" filter="url(#bb)">
+    <ellipse cx="50" cy="19" rx="34" ry="13" fill="#1793D1" opacity="0.6">
+      <animate attributeName="cx" values="50;141;50" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.45;0.7;0.45" dur="9s" repeatCount="indefinite"/>
+    </ellipse>
+  </g>
+  <rect x="14" y="2.5" width="174" height="1.2" rx="0.6" fill="#ffffff" opacity="0.35"/>
+  <g transform="translate(14,9) scale(0.8333)" fill="#ffffff">
+    <path d="M11.39.605C10.376 3.092 9.764 4.72 8.635 7.132c.693.734 1.543 1.589 2.923 2.554-1.484-.61-2.496-1.224-3.252-1.86C6.86 10.842 4.596 15.138 0 23.395c3.612-2.085 6.412-3.37 9.021-3.862a6.61 6.61 0 01-.171-1.547l.003-.115c.058-2.315 1.261-4.095 2.687-3.973 1.426.12 2.534 2.096 2.478 4.409a6.52 6.52 0 01-.146 1.243c2.58.505 5.352 1.787 8.914 3.844-.702-1.293-1.33-2.459-1.929-3.57-.943-.73-1.926-1.682-3.933-2.713 1.38.359 2.367.772 3.137 1.234-6.09-11.334-6.582-12.84-8.67-17.74zM22.898 21.36v-.623h-.234v-.084h.562v.084h-.234v.623h.331v-.707h.142l.167.5.034.107a2.26 2.26 0 01.038-.114l.17-.493H24v.707h-.091v-.593l-.206.593h-.084l-.205-.602v.602h-.091"/>
+  </g>
+  <text x="43" y="24.5" font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="700" letter-spacing="0.8" fill="#ffffff">ARCH LINUX  BTW</text>
+</svg>
