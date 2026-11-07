@@ -33,11 +33,14 @@
   </tr>
 </table>
 
+<!-- SLOGAN — cyberpunk red neon -->
+<img src="./assets/slogan-cyberpunk.svg" alt="trying to build cool stuff" width="643" />
+
 <br />
 
 <!-- DYNAMIC TYPING SVG HEADER -->
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=1793D1&center=true&vCenter=true&repeat=true&width=750&height=55&lines=root%40archlinux%3A~+%23+whoami+%E2%86%92+Ali+Ahmad;AI+Agent+Builder+%7C+RedCat+Founder+%7C+World-Class+Websites;def+crown_of_thorns()%3A+return+power(100)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=1793D1&center=true&vCenter=true&repeat=true&width=750&height=55&lines=root%40archlinux%3A~+%23+whoami+%E2%86%92+Ali+Ahmad;AI+Agent+Builder+%7C+RedCat+Founder+%7C+trying+to+build+cool+stuff;def+crown_of_thorns()%3A+return+power(100)" alt="Typing SVG" />
 </a>
 
 <!-- SOCIAL & PROFILE BUTTONS — custom glassmorphism (rounded pill, translucent, liquid blob) -->
@@ -76,7 +79,7 @@
                   .o+`                   ─────────────────────────────
                  `ooo/                   OS: Arch Linux x86_64 (BTW)
                 `+oooo:                  Role: AI Agent Builder & Founder
-               `+oooooo:                 Focus: AI Agents, World-Class Websites
+               `+oooooo:                 Focus: AI Agents, trying to build cool stuff
                -+oooooo+:                Current Quest: Building RedCat
              `/:-:++oooo+:               Philosophy: World-class or nothing
             `/++++/+++++++:              Uptime: 24/7 Shipping
