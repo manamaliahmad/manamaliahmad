@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="160" viewBox="0 0 1200 160">
+  <defs>
+    <radialGradient id="lg-blue" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#1793D1" stop-opacity="0.9"/>
+      <stop offset="60%" stop-color="#1793D1" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#1793D1" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="lg-gold" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#F59E0B" stop-opacity="0.9"/>
+      <stop offset="60%" stop-color="#F59E0B" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#F59E0B" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="lg-glass" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1793D1" stop-opacity="0.10"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#F59E0B" stop-opacity="0.10"/>
+    </linearGradient>
+    <linearGradient id="lg-shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="lg-blur" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="22"/>
+    </filter>
+    <clipPath id="lg-pill">
+      <rect x="8" y="18" width="1184" height="124" rx="62"/>
+    </clipPath>
+  </defs>
+
+  <!-- glass pill -->
+  <rect x="8" y="18" width="1184" height="124" rx="62" fill="url(#lg-glass)" stroke="#1793D1" stroke-opacity="0.35" stroke-width="1.5"/>
+
+  <!-- liquid blobs, clipped inside the pill -->
+  <g clip-path="url(#lg-pill)" filter="url(#lg-blur)">
+    <ellipse cx="240" cy="80" rx="180" ry="70" fill="url(#lg-blue)" opacity="0.8">
+      <animate attributeName="cx" values="240;320;240" dur="14s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="80;60;80" dur="14s" repeatCount="indefinite"/>
+      <animate attributeName="rx" values="180;220;180" dur="14s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.65;0.9;0.65" dur="14s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="600" cy="80" rx="170" ry="65" fill="url(#lg-gold)" opacity="0.8">
+      <animate attributeName="cx" values="600;520;600" dur="17s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="80;100;80" dur="17s" repeatCount="indefinite"/>
+      <animate attributeName="rx" values="170;210;170" dur="17s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.6;0.9;0.6" dur="17s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="960" cy="80" rx="180" ry="70" fill="url(#lg-blue)" opacity="0.8">
+      <animate attributeName="cx" values="960;880;960" dur="12s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="80;62;80" dur="12s" repeatCount="indefinite"/>
+      <animate attributeName="rx" values="180;230;180" dur="12s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.65;0.9;0.65" dur="12s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="420" cy="95" rx="120" ry="55" fill="url(#lg-gold)" opacity="0.7">
+      <animate attributeName="cx" values="420;500;420" dur="19s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="95;75;95" dur="19s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.5;0.8;0.5" dur="19s" repeatCount="indefinite"/>
+    </ellipse>
+  </g>
+
+  <!-- glass shine sweep -->
+  <g clip-path="url(#lg-pill)">
+    <g transform="skewX(-18)">
+      <rect x="0" y="-10" width="180" height="180" fill="url(#lg-shine)" opacity="0.5">
+        <animateTransform attributeName="transform" type="translate" values="-300 0; 1500 0; 1500 0" keyTimes="0; 0.55; 1" dur="9s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+
+  <!-- top glass highlight -->
+  <ellipse cx="600" cy="26" rx="520" ry="10" fill="#ffffff" opacity="0.18" filter="url(#lg-blur)"/>
+</svg>
