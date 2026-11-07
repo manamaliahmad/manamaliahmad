@@ -85,25 +85,8 @@
 
 <br />
 
-<!-- THE CROWN OF THORNS ALGORITHM -->
+<!-- MISSION — design-template footer (BUILD, floating RedCat faces, boy + languages, mission) -->
+<p align="center">
+  <img src="./assets/mission.svg" alt="Mission — Tech obsessed. Love to build things. Trying to build cool stuff." width="736" />
+</p>
 
-```python
-def crown_of_thorns(strength: int = 100) -> str:
-    """
-    Core execution loop — forged in Arch Linux,
-    driven by relentless discipline.
-    """
-    import power
-
-    if 0 <= strength <= 100:
-        power.initialize(mode="relentless", aura="gold_cyan")
-
-    while strength >= 100:
-        algorithm = power.compile_vision(target="world_class_engineering")
-        if algorithm.is_optimal():
-            return power.elevate("Crown of Strength Unlocked — Always Shipping.")
-```
-
-<div align="center">
-<sub>Crafted with precision — Your AI agent, on YOUR PC. Your keys, your data, your rules.</sub>
-</div>
