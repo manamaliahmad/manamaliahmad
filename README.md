@@ -22,25 +22,25 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=1793D1&center=true&vCenter=true&repeat=true&width=750&height=55&lines=root%40archlinux%3A~+%23+whoami+%E2%86%92+Ali+Ahmad;AI+Agent+Builder+%7C+RedCat+Founder+%7C+World-Class+Websites;def+crown_of_thorns()%3A+return+power(100)" alt="Typing SVG" />
 </a>
 
-<!-- SOCIAL & PROFILE BADGES — pill-shaped, one palette (Arch blue + Crown gold + dark) -->
+<!-- SOCIAL & PROFILE BUTTONS — custom glassmorphism (rounded pill, translucent, liquid blob) -->
 <p align="center">
 <a href="https://github.com/manamaliahmad">
-<img src="https://komarev.com/ghpvc/?username=manamaliahmad&label=PROFILE+VIEWS&color=1793d1&style=for-the-badge" alt="Profile Views" style="border-radius: 999px;" />
+<img src="./assets/btn-profile-views.svg" alt="Profile Views" />
 </a>
 <a href="https://github.com/manamaliahmad?tab=followers">
-<img src="https://img.shields.io/github/followers/manamaliahmad?label=FOLLOWERS&style=for-the-badge&color=1793d1&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub Followers" style="border-radius: 999px;" />
+<img src="./assets/btn-followers.svg" alt="GitHub Followers" />
 </a>
 <a href="https://discord.gg/4r8NwtnFB">
-<img src="https://img.shields.io/badge/DISCORD-JOIN_SERVER-1793D1?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117" alt="Discord" style="border-radius: 999px;" />
+<img src="./assets/btn-discord.svg" alt="Discord" />
 </a>
 <a href="https://instagram.com/manamaliahmad">
-<img src="https://img.shields.io/badge/INSTAGRAM-@manamaliahmad-1793D1?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" alt="Instagram" style="border-radius: 999px;" />
+<img src="./assets/btn-instagram.svg" alt="Instagram" />
 </a>
 <a href="https://redcat.arexora.com">
-<img src="https://img.shields.io/badge/WEBSITE-redcat.arexora.com-1793D1?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117" alt="Website" style="border-radius: 999px;" />
+<img src="./assets/btn-website.svg" alt="Website" />
 </a>
 <a href="mailto:arexorathefutureofai@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT_ME-F59E0B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" style="border-radius: 999px;" />
+<img src="./assets/btn-email.svg" alt="Email" />
 </a>
 </p>
 
@@ -152,8 +152,8 @@ def crown_of_thorns(strength: int = 100) -> str:
 
 <div align="center">
 <br />
-<img src="https://img.shields.io/badge/ARCH_LINUX-BTW-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white&labelColor=0d1117" alt="Arch Linux BTW" style="border-radius: 999px;" />
-<img src="https://img.shields.io/badge/STATUS-BUILDING_THE_FUTURE-F59E0B?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Status" style="border-radius: 999px;" />
+<img src="./assets/btn-arch.svg" alt="Arch Linux BTW" />
+<img src="./assets/btn-status.svg" alt="Status" />
 <br /><br />
 <sub>Crafted with precision — Your AI agent, on YOUR PC. Your keys, your data, your rules.</sub>
 </div>
