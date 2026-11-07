@@ -87,6 +87,6 @@
 
 <!-- MISSION — design-template footer (BUILD, floating RedCat faces, boy + languages, mission) -->
 <p align="center">
-  <img src="./assets/mission.svg" alt="Mission — Tech obsessed. Love to build things. Trying to build cool stuff." width="736" />
+  <img src="./assets/mission-v2.svg" alt="Mission — Tech obsessed. Love to build things. Trying to build cool stuff." width="736" />
 </p>
 
