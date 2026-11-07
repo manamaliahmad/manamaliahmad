@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="90" viewBox="0 0 1200 90">
+  <defs>
+    <filter id="g-blur" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="1.2"/></filter>
+  </defs>
+  <circle cx="763.1" cy="13.7" r="2.0" fill="#F59E0B" opacity="0.56" filter="url(#g-blur)">
+    <animateTransform attributeName="transform" type="translate" values="0 0; -27.4 -17.5; 0 0" dur="12.9s" begin="-6.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.12;0.56;0.12" dur="12.9s" begin="-6.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="52.2" cy="18.2" r="1.9" fill="#F59E0B" opacity="0.43" filter="url(#g-blur)">
+    <animateTransform attributeName="transform" type="translate" values="0 0; -36.0 -13.3; 0 0" dur="12.2s" begin="-6.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.12;0.43;0.12" dur="12.2s" begin="-6.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="704.4" cy="65.4" r="1.4" fill="#F59E0B" opacity="0.47" filter="url(#g-blur)">
+    <animateTransform attributeName="transform" type="translate" values="0 0; 15.1 -7.0; 0 0" dur="8.2s" begin="-0.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.12;0.47;0.12" dur="8.2s" begin="-0.6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="123.5" cy="18.4" r="3.1" fill="#F59E0B" opacity="0.67" filter="url(#g-blur)">
+    <animateTransform attributeName="transform" type="translate" values="0 0; -17.9 -20.1; 0 0" dur="10.7s" begin="-13.1s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.12;0.67;0.12" dur="10.7s" begin="-13.1s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="107.2" cy="31.3" r="2.7" fill="#C9D1D9" opacity="0.45" filter="url(#g-blur)">
+    <animateTransform attributeName="transform" type="translate" values="0 0; 5.9 9.0; 0 0" dur="7.4s" begin="-11.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.12;0.45;0.12" dur="7.4s" begin="-11.6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="108.4" cy="27.4" r="1.6" fill="#C9D1D9" opacity="0.58" filter="url(#g-blur)">
+    <animateTransform attributeName="transform" type="translate" values="0 0; -3.5 14.7; 0 0" dur="8.3s" begin="-9.7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.12;0.58;0.12" dur="8.3s" begin="-9.7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="836.1" cy="57.1" r="1.5" fill="#F59E0B" opacity="0.67" filter="url(#g-blur)">
+    <animateTransform attributeName="transform" type="translate" values="0 0; 2.6 -11.2; 0 0" dur="10.7s" begin="-11.0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.12;0.67;0.12" dur="10.7s" begin="-11.0s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="820.1" cy="26.5" r="2.0" fill="#1793D1" opacity="0.42" filter="url(#g-blur)">
+    <animateTransform attributeName="transform" type="translate" values="0 0; -20.6 -20.6; 0 0" dur="9.5s" begin="-11.0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.12;0.42;0.12" dur="9.5s" begin="-11.0s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1118.2" cy="69.8" r="2.0" fill="#1793D1" opacity="0.44" filter="url(#g-blur)">
+    <animateTransform attributeName="transform" type="translate" values="0 0; -7.9 18.2; 0 0" dur="10.7s" begin="-11.0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.12;0.44;0.12" dur="10.7s" begin="-11.0s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="671.8" cy="29.3" r="2.6" fill="#F59E0B" opacity="0.38" filter="url(#g-blur)">
+    <animateTransform attributeName="transform" type="translate" values="0 0; -7.6 -12.3; 0 0" dur="15.0s" begin="-7.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.12;0.38;0.12" dur="15.0s" begin="-7.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="70.1" cy="19.2" r="2.7" fill="#1793D1" opacity="0.44" filter="url(#g-blur)">
+    <animateTransform attributeName="transform" type="translate" values="0 0; 7.3 -5.1; 0 0" dur="11.8s" begin="-8.0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.12;0.44;0.12" dur="11.8s" begin="-8.0s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="662.3" cy="74.2" r="2.8" fill="#1793D1" opacity="0.39" filter="url(#g-blur)">
+    <animateTransform attributeName="transform" type="translate" values="0 0; 13.8 1.6; 0 0" dur="9.1s" begin="-5.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.12;0.39;0.12" dur="9.1s" begin="-5.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="523.7" cy="41.9" r="3.3" fill="#C9D1D9" opacity="0.57" filter="url(#g-blur)">
+    <animateTransform attributeName="transform" type="translate" values="0 0; 35.9 11.5; 0 0" dur="11.1s" begin="-13.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.12;0.57;0.12" dur="11.1s" begin="-13.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="999.8" cy="45.5" r="1.8" fill="#C9D1D9" opacity="0.35" filter="url(#g-blur)">
+    <animateTransform attributeName="transform" type="translate" values="0 0; 20.0 1.7; 0 0" dur="13.2s" begin="-7.0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.12;0.35;0.12" dur="13.2s" begin="-7.0s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="394.3" cy="13.3" r="3.3" fill="#C9D1D9" opacity="0.61" filter="url(#g-blur)">
+    <animateTransform attributeName="transform" type="translate" values="0 0; -19.8 -11.4; 0 0" dur="11.5s" begin="-13.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.12;0.61;0.12" dur="11.5s" begin="-13.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="969.7" cy="76.5" r="2.5" fill="#F59E0B" opacity="0.66" filter="url(#g-blur)">
+    <animateTransform attributeName="transform" type="translate" values="0 0; -28.2 -1.1; 0 0" dur="11.4s" begin="-11.0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.12;0.66;0.12" dur="11.4s" begin="-11.0s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="510.1" cy="26.0" r="2.5" fill="#F59E0B" opacity="0.66" filter="url(#g-blur)">
+    <animateTransform attributeName="transform" type="translate" values="0 0; 16.2 -4.4; 0 0" dur="12.4s" begin="-9.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.12;0.66;0.12" dur="12.4s" begin="-9.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="543.2" cy="28.4" r="1.5" fill="#1793D1" opacity="0.57" filter="url(#g-blur)">
+    <animateTransform attributeName="transform" type="translate" values="0 0; 6.7 -11.9; 0 0" dur="8.8s" begin="-13.9s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.12;0.57;0.12" dur="8.8s" begin="-13.9s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="282.9" cy="71.8" r="3.1" fill="#1793D1" opacity="0.6" filter="url(#g-blur)">
+    <animateTransform attributeName="transform" type="translate" values="0 0; 1.1 -9.7; 0 0" dur="10.9s" begin="-6.9s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.12;0.6;0.12" dur="10.9s" begin="-6.9s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1047.4" cy="50.0" r="1.9" fill="#1793D1" opacity="0.5" filter="url(#g-blur)">
+    <animateTransform attributeName="transform" type="translate" values="0 0; 23.4 -13.6; 0 0" dur="7.8s" begin="-8.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.12;0.5;0.12" dur="7.8s" begin="-8.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="561.4" cy="60.1" r="2.7" fill="#1793D1" opacity="0.42" filter="url(#g-blur)">
+    <animateTransform attributeName="transform" type="translate" values="0 0; -33.4 10.0; 0 0" dur="13.4s" begin="-13.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.12;0.42;0.12" dur="13.4s" begin="-13.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="642.5" cy="21.3" r="1.8" fill="#1793D1" opacity="0.54" filter="url(#g-blur)">
+    <animateTransform attributeName="transform" type="translate" values="0 0; -19.0 18.6; 0 0" dur="10.5s" begin="-2.1s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.12;0.54;0.12" dur="10.5s" begin="-2.1s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="74.2" cy="78.0" r="3.1" fill="#1793D1" opacity="0.42" filter="url(#g-blur)">
+    <animateTransform attributeName="transform" type="translate" values="0 0; 32.4 15.3; 0 0" dur="8.3s" begin="-7.7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.12;0.42;0.12" dur="8.3s" begin="-7.7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="484.2" cy="15.9" r="2.2" fill="#1793D1" opacity="0.69" filter="url(#g-blur)">
+    <animateTransform attributeName="transform" type="translate" values="0 0; -17.8 12.5; 0 0" dur="10.6s" begin="-8.7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.12;0.69;0.12" dur="10.6s" begin="-8.7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1179.6" cy="48.7" r="2.8" fill="#F59E0B" opacity="0.37" filter="url(#g-blur)">
+    <animateTransform attributeName="transform" type="translate" values="0 0; -23.6 -12.4; 0 0" dur="7.5s" begin="-4.0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.12;0.37;0.12" dur="7.5s" begin="-4.0s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="381.9" cy="15.3" r="2.4" fill="#F59E0B" opacity="0.56" filter="url(#g-blur)">
+    <animateTransform attributeName="transform" type="translate" values="0 0; -26.0 20.3; 0 0" dur="7.6s" begin="-12.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.12;0.56;0.12" dur="7.6s" begin="-12.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="805.0" cy="27.5" r="1.6" fill="#F59E0B" opacity="0.55" filter="url(#g-blur)">
+    <animateTransform attributeName="transform" type="translate" values="0 0; -19.3 4.2; 0 0" dur="12.0s" begin="-8.7s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.12;0.55;0.12" dur="12.0s" begin="-8.7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="626.7" cy="73.7" r="1.8" fill="#C9D1D9" opacity="0.46" filter="url(#g-blur)">
+    <animateTransform attributeName="transform" type="translate" values="0 0; -19.9 -4.6; 0 0" dur="12.4s" begin="-10.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.12;0.46;0.12" dur="12.4s" begin="-10.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="894.7" cy="16.8" r="2.3" fill="#F59E0B" opacity="0.68" filter="url(#g-blur)">
+    <animateTransform attributeName="transform" type="translate" values="0 0; 37.7 -18.8; 0 0" dur="8.7s" begin="-11.0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.12;0.68;0.12" dur="8.7s" begin="-11.0s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1045.6" cy="70.0" r="2.1" fill="#F59E0B" opacity="0.63" filter="url(#g-blur)">
+    <animateTransform attributeName="transform" type="translate" values="0 0; -4.7 1.9; 0 0" dur="9.4s" begin="-0.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.12;0.63;0.12" dur="9.4s" begin="-0.2s" repeatCount="indefinite"/>
+  </circle>
+</svg>
