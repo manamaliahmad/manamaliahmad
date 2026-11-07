@@ -1,10 +1,10 @@
 <!-- ============================================================ -->
 <!-- QUICK CUSTOMIZATION GUIDE (edit your data here):          -->
 <!-- 1. Images live in your profile repo's "assets/" folder:    -->
-<!--    - Hero (top, looping GIF)        -> ./assets/hero-crown.gif -->
+<!--    - Hero (top, hologram)           -> ./assets/holo-face.svg (+ label-agent, btn-download, os-*.svg) -->
 <!--    - Image 2 (Blue Horizon divider) -> ./assets/divider-horizon.jpg -->
 <!--    - Image 3 (Crown of Thorns)     -> ./assets/footer-crown.jpg -->
-<!--    (banner-arch.jpg is no longer used as the top banner.)  -->
+<!--    (banner-arch.jpg + hero-crown.gif are no longer used.)   -->
 <!-- 2. Everything below is already filled with your real data -->
 <!--    (username: manamaliahmad). Just push this file as       -->
 <!--    README.md in the repo named "manamaliahmad".            -->
