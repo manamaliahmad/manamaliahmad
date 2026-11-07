@@ -1,11 +1,12 @@
 <!-- ============================================================ -->
 <!-- QUICK CUSTOMIZATION GUIDE (edit your data here):          -->
 <!-- 1. Images live in your profile repo's "assets/" folder:    -->
-<!--    - Boy (top, animated code portrait) -> ./assets/boy-neofetch.svg -->
+<!--    - Boy (top, cutout over code rain)  -> ./assets/boy-neofetch.svg -->
+<!--    - Slogan (code text, purple)      -> ./assets/slogan-code.svg -->
 <!--    - Social buttons (brand colors) -> ./assets/btn-{profile-views,followers,discord,instagram,website,email}.svg -->
 <!--    - Hero (RedCat hologram)         -> ./assets/holo-face.svg (+ label-agent, btn-download, os-*.svg) -->
 <!--    - Tech icons                   -> ./assets/tech/*.svg -->
-<!--    (divider-horizon.jpg, footer-crown.jpg, liquid-glass.svg, grains.svg, btn-arch.svg, btn-status.svg, banner-arch.jpg, hero-crown.gif, lain-neofetch.svg are no longer used.)   -->
+<!--    (divider-horizon.jpg, footer-crown.jpg, liquid-glass.svg, grains.svg, btn-arch.svg, btn-status.svg, banner-arch.jpg, hero-crown.gif, lain-neofetch.svg, slogan-cyberpunk.svg are no longer used.)   -->
 <!-- 2. Everything below is already filled with your real data -->
 <!--    (username: manamaliahmad). Just push this file as       -->
 <!--    README.md in the repo named "manamaliahmad".            -->
@@ -13,15 +14,15 @@
 
 <div align="center">
 
-<!-- BOY — ANIMATED CODE PORTRAIT (code-textured photo, blinking eyes) -->
+<!-- BOY — ANIMATED CODE PORTRAIT (bg-removed cutout over scrolling code rain, blinking eyes) -->
 <img src="./assets/boy-neofetch.svg" alt="Ali Ahmad — AI Agent Builder" width="736" />
 
 </div>
 
 <br />
 
-<!-- SLOGAN — cyberpunk red neon -->
-<img src="./assets/slogan-cyberpunk.svg" alt="trying to build cool stuff" width="643" />
+<!-- SLOGAN — code text, purple (monospace + blinking cursor) -->
+<img src="./assets/slogan-code.svg" alt="trying to build cool stuff" width="643" />
 
 <br />
 

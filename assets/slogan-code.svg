@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="643" height="56" viewBox="0 0 643 56" role="img" aria-label="trying to build cool stuff">
+<text x="41" y="38" font-family="JetBrains Mono, Fira Code, Consolas, &#x27;Courier New&#x27;, monospace" font-size="34" font-weight="600" fill="#a855f7" textLength="540" lengthAdjust="spacingAndGlyphs">trying to build cool stuff</text>
+<rect x="589" y="10" width="13" height="34" rx="2" fill="#a855f7">
+<animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
+</rect>
+</svg>
