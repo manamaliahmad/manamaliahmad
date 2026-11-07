@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="643" height="78" viewBox="0 0 643 78">
+  <defs>
+    <filter id="cp-glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3.2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="cp-glow2" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="7" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <!-- glitch copies (chromatic aberration) -->
+  <text x="318.5" y="50" text-anchor="middle" font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace" font-size="36" font-weight="700" fill="#00e5ff" opacity="0.45">trying to build cool stuff</text>
+  <text x="324.5" y="50" text-anchor="middle" font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace" font-size="36" font-weight="700" fill="#ff00aa" opacity="0.45">trying to build cool stuff</text>
+  <!-- main neon red text -->
+  <text x="321.5" y="50" text-anchor="middle" font-family="'JetBrains Mono', 'DejaVu Sans Mono', monospace" font-size="36" font-weight="700" fill="#ff2d2d" filter="url(#cp-glow)">trying to build cool stuff</text>
+  <!-- blinking cursor -->
+  <rect x="611.0" y="24" width="18" height="30" fill="#ff2d2d" filter="url(#cp-glow2)">
+    <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+  <!-- glitch flicker: a thin red line that flashes across -->
+  <rect x="0" y="70" width="643" height="2" fill="#ff2d2d" opacity="0.6">
+    <animate attributeName="opacity" values="0;0.7;0" dur="3.2s" repeatCount="indefinite"/>
+  </rect>
+</svg>
