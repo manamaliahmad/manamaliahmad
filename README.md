@@ -44,25 +44,22 @@
 
 <br />
 
-<!-- SOCIAL & PROFILE BUTTONS — official brand colors (rounded pill) -->
+<!-- SOCIAL & PROFILE BUTTONS — collaborative-cursor style (arrow + pill) -->
 <p align="center">
 <a href="https://github.com/manamaliahmad">
-<img src="./assets/btn-profile-views.svg" alt="Profile Views" />
+<img src="./assets/btn-cursor-profile-views.svg" alt="Profile Views" />
 </a>
 <a href="https://github.com/manamaliahmad?tab=followers">
-<img src="./assets/btn-followers.svg" alt="GitHub Followers" />
+<img src="./assets/btn-cursor-followers.svg" alt="GitHub Followers" />
 </a>
 <a href="https://discord.gg/4r8NwtnFB">
-<img src="./assets/btn-discord.svg" alt="Discord" />
+<img src="./assets/btn-cursor-discord.svg" alt="Discord" />
 </a>
 <a href="https://instagram.com/manamaliahmad">
-<img src="./assets/btn-instagram.svg" alt="Instagram" />
+<img src="./assets/btn-cursor-instagram.svg" alt="Instagram" />
 </a>
 <a href="https://redcat.arexora.com">
-<img src="./assets/btn-website.svg" alt="Website" />
-</a>
-<a href="mailto:arexorathefutureofai@gmail.com">
-<img src="./assets/btn-email.svg" alt="Email" />
+<img src="./assets/btn-cursor-website.svg" alt="RedCat" />
 </a>
 </p>
 
