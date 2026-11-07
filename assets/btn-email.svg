@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="38" viewBox="0 0 220 38">
+  <defs>
+    <linearGradient id="bf" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d1117" stop-opacity="0.78"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="0.62"/>
+    </linearGradient>
+    <linearGradient id="bt" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#F59E0B" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="#F59E0B" stop-opacity="0.08"/>
+    </linearGradient>
+    <filter id="bb" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="7"/>
+    </filter>
+    <clipPath id="bp">
+      <rect x="0.5" y="0.5" width="219" height="37" rx="18.5"/>
+    </clipPath>
+  </defs>
+  <rect x="0.5" y="0.5" width="219" height="37" rx="18.5" fill="url(#bf)" stroke="#ffffff" stroke-opacity="0.5" stroke-width="1"/>
+  <rect x="0.5" y="0.5" width="219" height="37" rx="18.5" fill="url(#bt)"/>
+  <g clip-path="url(#bp)" filter="url(#bb)">
+    <ellipse cx="55" cy="19" rx="34" ry="13" fill="#F59E0B" opacity="0.6">
+      <animate attributeName="cx" values="55;154;55" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.45;0.7;0.45" dur="9s" repeatCount="indefinite"/>
+    </ellipse>
+  </g>
+  <rect x="14" y="2.5" width="192" height="1.2" rx="0.6" fill="#ffffff" opacity="0.35"/>
+  <g transform="translate(14,9) scale(0.8333)" fill="#ffffff">
+    <path d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-2.023 2.309-3.178 3.927-1.964L5.455 4.64 12 9.548l6.545-4.91 1.528-1.145C21.69 2.28 24 3.434 24 5.457z"/>
+  </g>
+  <text x="43" y="24.5" font-family="Arial, Helvetica, sans-serif" font-size="12.5" font-weight="700" letter-spacing="0.8" fill="#ffffff">EMAIL  CONTACT ME</text>
+</svg>
