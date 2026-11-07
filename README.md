@@ -1,10 +1,11 @@
 <!-- ============================================================ -->
 <!-- QUICK CUSTOMIZATION GUIDE (edit your data here):          -->
 <!-- 1. Images live in your profile repo's "assets/" folder:    -->
-<!--    - Lain (top, animated neofetch) -> ./assets/lain-neofetch.svg -->
+<!--    - Boy (top, animated code portrait) -> ./assets/boy-neofetch.svg -->
 <!--    - Social buttons (brand colors) -> ./assets/btn-{profile-views,followers,discord,instagram,website,email}.svg -->
 <!--    - Hero (RedCat hologram)         -> ./assets/holo-face.svg (+ label-agent, btn-download, os-*.svg) -->
-<!--    (divider-horizon.jpg, footer-crown.jpg, liquid-glass.svg, grains.svg, btn-arch.svg, btn-status.svg, banner-arch.jpg, hero-crown.gif are no longer used.)   -->
+<!--    - Tech icons                   -> ./assets/tech/*.svg -->
+<!--    (divider-horizon.jpg, footer-crown.jpg, liquid-glass.svg, grains.svg, btn-arch.svg, btn-status.svg, banner-arch.jpg, hero-crown.gif, lain-neofetch.svg are no longer used.)   -->
 <!-- 2. Everything below is already filled with your real data -->
 <!--    (username: manamaliahmad). Just push this file as       -->
 <!--    README.md in the repo named "manamaliahmad".            -->
@@ -12,8 +13,47 @@
 
 <div align="center">
 
-<!-- LAIN — ANIMATED NEOFETCH (code-built: bg-removed cutout over scrolling code rain, blinking eyes) -->
-<img src="./assets/lain-neofetch.svg" alt="Lain — Ali Ahmad, AI Agent Builder" width="736" />
+<!-- BOY — ANIMATED CODE PORTRAIT (code-textured photo, blinking eyes) -->
+<img src="./assets/boy-neofetch.svg" alt="Ali Ahmad — AI Agent Builder" width="736" />
+
+</div>
+
+<br />
+
+<!-- SLOGAN — cyberpunk red neon -->
+<img src="./assets/slogan-cyberpunk.svg" alt="trying to build cool stuff" width="643" />
+
+<br />
+
+<!-- DYNAMIC TYPING SVG HEADER -->
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=1793D1&center=true&vCenter=true&repeat=true&width=750&height=55&lines=root%40archlinux%3A~+%23+whoami+%E2%86%92+Ali+Ahmad;AI+Agent+Builder+%7C+RedCat+Founder+%7C+trying+to+build+cool+stuff;def+crown_of_thorns()%3A+return+power(100)" alt="Typing SVG" />
+</a>
+
+<br />
+
+<div align="center">
+
+<!-- SECTION 1: HERO — Hologram RedCat (0101) + Download -->
+<table>
+  <tr>
+    <td align="center" valign="middle" width="45%">
+      <img src="./assets/holo-face.svg" alt="RedCat hologram" width="100%" />
+    </td>
+    <td align="left" valign="middle" width="55%">
+      <img src="./assets/label-agent.svg" alt="Your Personal AI Agent" />
+      <h2>RedCat</h2>
+      <p>Your AI agent, on YOUR PC. Your keys, your data, your rules.</p>
+      <a href="https://github.com/manamaliahmad/redcat/releases/latest">
+        <img src="./assets/btn-download.svg" alt="Download" />
+      </a>
+      <br /><br />
+      <a href="https://github.com/manamaliahmad/redcat/releases/latest"><img src="./assets/os-windows.svg" alt="Windows" width="40" height="40" /></a>&nbsp;
+      <a href="https://github.com/manamaliahmad/redcat/releases/latest"><img src="./assets/os-linux.svg" alt="Linux" width="40" height="40" /></a>&nbsp;
+      <a href="https://github.com/manamaliahmad/redcat/releases/latest"><img src="./assets/os-apple.svg" alt="macOS" width="40" height="40" /></a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -44,53 +84,16 @@
 <br />
 
 <div align="center">
-
-<!-- SECTION 1: HERO — Hologram RedCat (0101) + Download -->
-<table>
-  <tr>
-    <td align="center" valign="middle" width="45%">
-      <img src="./assets/holo-face.svg" alt="RedCat hologram" width="100%" />
-    </td>
-    <td align="left" valign="middle" width="55%">
-      <img src="./assets/label-agent.svg" alt="Your Personal AI Agent" />
-      <h2>RedCat</h2>
-      <p>Your AI agent, on YOUR PC. Your keys, your data, your rules.</p>
-      <a href="https://github.com/manamaliahmad/redcat/releases/latest">
-        <img src="./assets/btn-download.svg" alt="Download" />
-      </a>
-      <br /><br />
-      <a href="https://github.com/manamaliahmad/redcat/releases/latest"><img src="./assets/os-windows.svg" alt="Windows" width="40" height="40" /></a>&nbsp;
-      <a href="https://github.com/manamaliahmad/redcat/releases/latest"><img src="./assets/os-linux.svg" alt="Linux" width="40" height="40" /></a>&nbsp;
-      <a href="https://github.com/manamaliahmad/redcat/releases/latest"><img src="./assets/os-apple.svg" alt="macOS" width="40" height="40" /></a>
-    </td>
-  </tr>
-</table>
-
-<!-- SLOGAN — cyberpunk red neon -->
-<img src="./assets/slogan-cyberpunk.svg" alt="trying to build cool stuff" width="643" />
-
-<br />
-
-<!-- DYNAMIC TYPING SVG HEADER -->
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=1793D1&center=true&vCenter=true&repeat=true&width=750&height=55&lines=root%40archlinux%3A~+%23+whoami+%E2%86%92+Ali+Ahmad;AI+Agent+Builder+%7C+RedCat+Founder+%7C+trying+to+build+cool+stuff;def+crown_of_thorns()%3A+return+power(100)" alt="Typing SVG" />
-</a>
-
-</div>
-
-<br />
-
-<div align="center">
 <h3><code><span style="color:#1793D1">[ SYSTEM ARCHITECTURE &amp; TECH ARSENAL ]</span></code></h3>
 </div>
 
 | Category | Technologies & Tools |
 |---|---|
-| Core Languages | JavaScript, TypeScript, Python |
-| Frontend & UI | Electron, HTML, CSS |
-| Backend & APIs | Node.js, REST APIs, Cloudflare Workers |
-| AI & Machine Learning | Agentic AI, Prompt Engineering, LLM APIs (DeepSeek, OpenRouter, Claude) |
-| Linux & DevOps | Git, GitHub Actions, Cloudflare, Oracle Cloud, Tailscale |
+| Core Languages | <img src="./assets/tech/javascript.svg" width="18" height="18" /> JavaScript, <img src="./assets/tech/typescript.svg" width="18" height="18" /> TypeScript, <img src="./assets/tech/python.svg" width="18" height="18" /> Python |
+| Frontend & UI | <img src="./assets/tech/electron.svg" width="18" height="18" /> Electron, <img src="./assets/tech/html5.svg" width="18" height="18" /> HTML, <img src="./assets/tech/css.svg" width="18" height="18" /> CSS |
+| Backend & APIs | <img src="./assets/tech/nodedotjs.svg" width="18" height="18" /> Node.js, REST APIs, <img src="./assets/tech/cloudflare.svg" width="18" height="18" /> Cloudflare Workers |
+| AI & Machine Learning | Agentic AI, Prompt Engineering, LLM APIs (<img src="./assets/tech/deepseek.svg" width="18" height="18" /> DeepSeek, <img src="./assets/tech/openrouter.svg" width="18" height="18" /> OpenRouter, <img src="./assets/tech/claude.svg" width="18" height="18" /> Claude) |
+| Linux & DevOps | <img src="./assets/tech/git.svg" width="18" height="18" /> Git, <img src="./assets/tech/githubactions.svg" width="18" height="18" /> GitHub Actions, <img src="./assets/tech/cloudflare.svg" width="18" height="18" /> Cloudflare, <img src="./assets/tech/oracle.svg" width="18" height="18" /> Oracle Cloud, <img src="./assets/tech/tailscale.svg" width="18" height="18" /> Tailscale |
 
 <br />
 
