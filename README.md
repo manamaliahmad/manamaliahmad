@@ -44,6 +44,9 @@
 </a>
 </p>
 
+<!-- ANIMATED LIQUID-GLASS DIVIDER (SMIL — the blobs drift & morph on GitHub) -->
+<img src="./assets/liquid-glass.svg" alt="Liquid glass divider" width="100%" />
+
 </div>
 
 <br />
@@ -110,6 +113,13 @@
 <br /><br />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=manamaliahmad&bg_color=0d1117&color=1793d1&line=f59e0b&point=ffffff&area=true&hide_border=true" width="98%" alt="Contribution Graph" />
+</div>
+
+<br />
+
+<!-- ANIMATED GRAINS / PARTICLES (SMIL — floating dust) -->
+<div align="center">
+<img src="./assets/grains.svg" alt="Floating grains" width="100%" />
 </div>
 
 <br />
