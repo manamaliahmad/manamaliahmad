@@ -72,15 +72,9 @@
 <h3><code><span style="color:#1793D1">[ SYSTEM ARCHITECTURE &amp; TECH ARSENAL ]</span></code></h3>
 </div>
 
-| Category | Technologies & Tools |
-|---|---|
-| Core Languages | <img src="./assets/tech/javascript.svg" width="18" height="18" /> JavaScript, <img src="./assets/tech/typescript.svg" width="18" height="18" /> TypeScript, <img src="./assets/tech/python.svg" width="18" height="18" /> Python |
-| Frontend & UI | <img src="./assets/tech/electron.svg" width="18" height="18" /> Electron, <img src="./assets/tech/html5.svg" width="18" height="18" /> HTML, <img src="./assets/tech/css.svg" width="18" height="18" /> CSS |
-| Backend & APIs | <img src="./assets/tech/nodedotjs.svg" width="18" height="18" /> Node.js, REST APIs, <img src="./assets/tech/cloudflare.svg" width="18" height="18" /> Cloudflare Workers |
-| AI & Machine Learning | Agentic AI, Prompt Engineering, LLM APIs (<img src="./assets/tech/deepseek.svg" width="18" height="18" /> DeepSeek, <img src="./assets/tech/openrouter.svg" width="18" height="18" /> OpenRouter, <img src="./assets/tech/claude.svg" width="18" height="18" /> Claude) |
-| Linux & DevOps | <img src="./assets/tech/git.svg" width="18" height="18" /> Git, <img src="./assets/tech/githubactions.svg" width="18" height="18" /> GitHub Actions, <img src="./assets/tech/cloudflare.svg" width="18" height="18" /> Cloudflare, <img src="./assets/tech/oracle.svg" width="18" height="18" /> Oracle Cloud, <img src="./assets/tech/tailscale.svg" width="18" height="18" /> Tailscale |
-
-<br />
+<p align="center">
+  <img src="./assets/tech-tree.svg" alt="Ali Ahmad — Tech Arsenal tree: Core Languages, Frontend &amp; UI, Backend &amp; APIs, AI &amp; Machine Learning, Linux &amp; DevOps" width="736" />
+</p>
 
 <!-- FEATURED PROJECTS -->
 <div align="center">
