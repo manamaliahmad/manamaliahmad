@@ -1,10 +1,10 @@
 <!-- ============================================================ -->
 <!-- QUICK CUSTOMIZATION GUIDE (edit your data here):          -->
-<!-- 1. Upload your 3 images to your profile repo's "assets/"  -->
-<!--    folder with these exact names:                         -->
-<!--    - Image 1 (Arch / Gojo banner)  -> ./assets/banner-arch.jpg -->
+<!-- 1. Images live in your profile repo's "assets/" folder:    -->
+<!--    - Hero (top, looping GIF)        -> ./assets/hero-crown.gif -->
 <!--    - Image 2 (Blue Horizon divider) -> ./assets/divider-horizon.jpg -->
 <!--    - Image 3 (Crown of Thorns)     -> ./assets/footer-crown.jpg -->
+<!--    (banner-arch.jpg is no longer used as the top banner.)  -->
 <!-- 2. Everything below is already filled with your real data -->
 <!--    (username: manamaliahmad). Just push this file as       -->
 <!--    README.md in the repo named "manamaliahmad".            -->
