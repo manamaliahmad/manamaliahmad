@@ -2,10 +2,9 @@
 <!-- QUICK CUSTOMIZATION GUIDE (edit your data here):          -->
 <!-- 1. Images live in your profile repo's "assets/" folder:    -->
 <!--    - Hero (top, hologram)           -> ./assets/holo-face.svg (+ label-agent, btn-download, os-*.svg) -->
-<!--    - Image 2 (Blue Horizon divider) -> ./assets/divider-horizon.jpg -->
-<!--    - Image 3 (Crown of Thorns)     -> ./assets/footer-crown.jpg -->
+<!--    - Social buttons (brand colors) -> ./assets/btn-{profile-views,followers,discord,instagram,website,email}.svg -->
 <!--    - Lain (animated neofetch)      -> ./assets/lain-neofetch.svg -->
-<!--    (banner-arch.jpg + hero-crown.gif are no longer used.)   -->
+<!--    (divider-horizon.jpg, footer-crown.jpg, liquid-glass.svg, grains.svg, btn-arch.svg, btn-status.svg, banner-arch.jpg, hero-crown.gif are no longer used.)   -->
 <!-- 2. Everything below is already filled with your real data -->
 <!--    (username: manamaliahmad). Just push this file as       -->
 <!--    README.md in the repo named "manamaliahmad".            -->
@@ -44,7 +43,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=1793D1&center=true&vCenter=true&repeat=true&width=750&height=55&lines=root%40archlinux%3A~+%23+whoami+%E2%86%92+Ali+Ahmad;AI+Agent+Builder+%7C+RedCat+Founder+%7C+trying+to+build+cool+stuff;def+crown_of_thorns()%3A+return+power(100)" alt="Typing SVG" />
 </a>
 
-<!-- SOCIAL & PROFILE BUTTONS — custom glassmorphism (rounded pill, translucent, liquid blob) -->
+<!-- SOCIAL & PROFILE BUTTONS — official brand colors (rounded pill) -->
 <p align="center">
 <a href="https://github.com/manamaliahmad">
 <img src="./assets/btn-profile-views.svg" alt="Profile Views" />
@@ -66,9 +65,6 @@
 </a>
 </p>
 
-<!-- ANIMATED LIQUID-GLASS DIVIDER (SMIL — the blobs drift & morph on GitHub) -->
-<img src="./assets/liquid-glass.svg" alt="Liquid glass divider" width="100%" />
-
 </div>
 
 <br />
@@ -80,10 +76,7 @@
 
 <br />
 
-<!-- SECTION 2: THE HORIZON DIVIDER (Image 2 - Blue Horizon / Radar) -->
 <div align="center">
-<img src="./assets/divider-horizon.jpg" alt="Event Horizon Visual Tracking Banner" width="100%" style="border-radius: 16px;" />
-<br /><br />
 <h3><code><span style="color:#1793D1">[ SYSTEM ARCHITECTURE &amp; TECH ARSENAL ]</span></code></h3>
 </div>
 
@@ -110,38 +103,6 @@
 
 <br />
 
-<!-- TELEMETRY, STATS & STREAK (Arch Cyan #1793D1 & Crown Gold #F59E0B Theme) -->
-<div align="center">
-<h3><code><span style="color:#F59E0B">[ SYSTEM TELEMETRY &amp; GITHUB METRICS ]</span></code></h3>
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=manamaliahmad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1793D1&icon_color=F59E0B&text_color=C9D1D9" alt="GitHub Stats" />
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manamaliahmad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1793D1&text_color=C9D1D9" alt="Top Languages" />
-
-<br /><br />
-
-<img src="https://streak-stats.demolab.com?user=manamaliahmad&theme=tokyonight&hide_border=true&background=0D1117&ring=1793D1&fire=F59E0B&currStreakLabel=1793D1" alt="GitHub Streak" width="65%" />
-
-<br /><br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manamaliahmad&bg_color=0d1117&color=1793d1&line=f59e0b&point=ffffff&area=true&hide_border=true" width="98%" alt="Contribution Graph" />
-</div>
-
-<br />
-
-<!-- ANIMATED GRAINS / PARTICLES (SMIL — floating dust) -->
-<div align="center">
-<img src="./assets/grains.svg" alt="Floating grains" width="100%" />
-</div>
-
-<br />
-
-<!-- SECTION 3: CROWN OF THORNS FINALE (Image 3 - Python Algorithm & Gold Aura) -->
-<div align="center">
-<img src="./assets/footer-crown.jpg" alt="Crown of Thorns Code Finale" width="100%" style="border-radius: 16px;" />
-</div>
-
-<br />
-
 <!-- THE CROWN OF THORNS ALGORITHM -->
 
 ```python
@@ -162,9 +123,5 @@ def crown_of_thorns(strength: int = 100) -> str:
 ```
 
 <div align="center">
-<br />
-<img src="./assets/btn-arch.svg" alt="Arch Linux BTW" />
-<img src="./assets/btn-status.svg" alt="Status" />
-<br /><br />
 <sub>Crafted with precision — Your AI agent, on YOUR PC. Your keys, your data, your rules.</sub>
 </div>
