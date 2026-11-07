@@ -12,8 +12,8 @@
 
 <div align="center">
 
-<!-- SECTION 1: HERO BANNER (Image 1 - Arch Linux / Terminal Anime Theme) -->
-<img src="./assets/banner-arch.jpg" alt="Arch Linux Terminal Header" width="100%" style="border-radius: 16px;" />
+<!-- SECTION 1: HERO BANNER (Animated Crown of Thorns — looping GIF) -->
+<img src="./assets/hero-crown.gif" alt="Crown of Thorns — Animated Hero" width="100%" style="border-radius: 16px;" />
 
 <br />
 
