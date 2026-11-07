@@ -15,7 +15,7 @@
 <div align="center">
 
 <!-- BOY — ANIMATED CODE PORTRAIT (bg-removed cutout over scrolling code rain, blinking eyes) -->
-<img src="./assets/boy-neofetch.svg?v=2" alt="Ali Ahmad — AI Agent Builder" width="736" />
+<img src="./assets/boy-neofetch-v2.svg" alt="Ali Ahmad — AI Agent Builder" width="736" />
 
 </div>
 
