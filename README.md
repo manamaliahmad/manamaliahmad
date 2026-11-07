@@ -12,8 +12,26 @@
 
 <div align="center">
 
-<!-- SECTION 1: HERO BANNER (Animated Crown of Thorns — looping GIF) -->
-<img src="./assets/hero-crown.gif" alt="Crown of Thorns — Animated Hero" width="100%" style="border-radius: 16px;" />
+<!-- SECTION 1: HERO — Hologram RedCat (0101) + Download -->
+<table>
+  <tr>
+    <td align="center" valign="middle" width="45%">
+      <img src="./assets/holo-face.svg" alt="RedCat hologram" width="100%" />
+    </td>
+    <td align="left" valign="middle" width="55%">
+      <img src="./assets/label-agent.svg" alt="Your Personal AI Agent" />
+      <h2>RedCat</h2>
+      <p>Your AI agent, on YOUR PC. Your keys, your data, your rules.</p>
+      <a href="https://github.com/manamaliahmad/redcat/releases/latest">
+        <img src="./assets/btn-download.svg" alt="Download" />
+      </a>
+      <br /><br />
+      <a href="https://github.com/manamaliahmad/redcat/releases/latest"><img src="./assets/os-windows.svg" alt="Windows" width="40" height="40" /></a>&nbsp;
+      <a href="https://github.com/manamaliahmad/redcat/releases/latest"><img src="./assets/os-linux.svg" alt="Linux" width="40" height="40" /></a>&nbsp;
+      <a href="https://github.com/manamaliahmad/redcat/releases/latest"><img src="./assets/os-apple.svg" alt="macOS" width="40" height="40" /></a>
+    </td>
+  </tr>
+</table>
 
 <br />
 
